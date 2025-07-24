@@ -15,7 +15,7 @@ A Streamlit-based web application for text processing, offering four powerful to
 content-generation-tool/
 ├── Content Generation Tool.py  # Main application script
 ├── requirements.txt            # List of dependencies
-├── README.md                  # Project documentation
+├── README.md                   # Project documentation
 ```
 
 ## Prerequisites
