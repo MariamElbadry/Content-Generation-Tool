@@ -9,13 +9,6 @@ A Streamlit-based web application for text processing, offering four powerful to
 - **AI-Assisted Story Generation**: Generates creative stories based on a user-specified topic and tone (e.g., Happy, Sad, Romantic) using DistilGPT-2.
 - **Keyword Optimization**: Extracts the most relevant keywords from text using TF-IDF.
 
-## Prerequisites
-
-- **Python**: Version 3.8 or higher
-- **Virtual Environment**: Recommended for dependency management
-- **Internet Connection**: Required for downloading NLTK resources and Hugging Face models on first run
-- **GPU**: Optional, for faster model inference (automatically detected if available)
-
 ## Project Structure
 
 ```
@@ -24,6 +17,14 @@ content-generation-tool/
 ├── requirements.txt            # List of dependencies
 ├── README.md                  # Project documentation
 ```
+
+## Prerequisites
+
+- **Python**: Version 3.8 or higher
+- **Virtual Environment**: Recommended for dependency management
+- **Internet Connection**: Required for downloading NLTK resources and Hugging Face models on first run
+- **GPU**: Optional, for faster model inference (automatically detected if available)
+
 
 ## How to Run the Project
 
